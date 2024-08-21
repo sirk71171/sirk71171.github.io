@@ -1,0 +1,1 @@
+This will be a fairly simple calculator application. It will be capable of performing basic operations such as addition, subtraction, multiplication, division.
